@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">天气</string>
+    <string name="widget_small_desc">小号：当前温度与天气</string>
+    <string name="widget_strip_desc">条形：一行显示温度、天气和空气质量</string>
+    <string name="widget_medium_desc">中号：当前天气 + 逐小时预报</string>
+    <string name="widget_large_desc">大号：当前天气 + 逐小时 + 多日预报</string>
+    <string name="widget_cities_desc">城市列表：所有城市的天气，点击打开对应城市</string>
+</resources>
