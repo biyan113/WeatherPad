@@ -1,0 +1,8 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="1024" android:viewportHeight="1024">
+    <!-- 太阳 -->
+    <path android:fillColor="#FFFFD34E" android:pathData="M300,430a130,130 0 1,0 260,0a130,130 0 1,0 -260,0z"/>
+    <!-- 云 -->
+    <path android:fillColor="#FFFFFFFF"
+        android:pathData="M360,560h360a70,70 0 0,1 0,140h-360a70,70 0 0,1 0,-140z M340,600a110,110 0 1,1 220,0a110,110 0 1,1 -220,0z M470,560a150,150 0 1,1 300,0a150,150 0 1,1 -300,0z"/>
+</vector>
