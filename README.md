@@ -53,3 +53,7 @@ Android 平板天气应用（Kotlin + Jetpack Compose），全部使用免费、
 ./gradlew :app:assembleDebug
 adb install -r app/build/outputs/apk/debug/app-debug.apk
 ```
+
+## 许可证
+
+代码采用 [MIT](LICENSE) 许可证。天气数据的许可见上方“数据源”表格，使用时需保留署名。
